@@ -12,7 +12,7 @@ spec:
     directory:
       recurse: true
     path: app
-    repoURL: https://github.com/redhat-developer/openshift-gitops-getting-started.git
+    repoURL: https://github.com/kvanska/openshift-gitops-getting-started
     targetRevision: main
   syncPolicy:
     syncOptions:
